@@ -1,9 +1,10 @@
-## Hi there I'm Virgiawan Listiyanto👋
+## Hey 👋 What's up? I'm Virgiawan Listiyanto
 
 ![Virgiawan Listiyanto](IMG/github.png)
 
-🔭 I’m currently working on webAI
-😄😄😄
+### About Me
+
+- I’m currently working on webAI
 
 ##### Skills
 
