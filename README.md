@@ -16,8 +16,9 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Virgiawanlistiyanto19/Virgiawanlistiyanto19/output/snake.svg" alt="Snake animation" />
+###
 
+<img src="https://raw.githubusercontent.com/Virgiawanlistiyanto19/Virgiawanlistiyanto19/output/snake.svg" alt="Snake animation" />
 ###
 
 ##### Skills
