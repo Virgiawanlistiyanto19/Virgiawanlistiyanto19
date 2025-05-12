@@ -12,12 +12,6 @@ I’m currently working on webAI
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Virgiawanlistiyanto19/Virgiawanlistiyanto19/output/pacman-contribution-graph.svg">
 </picture>
 
-###
-
-<img src="https://raw.githubusercontent.com/Virgiawanlistiyanto19/Virgiawanlistiyanto19/output/snake.svg" alt="Snake animation" />
-
-###
-
 ##### Skills
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
